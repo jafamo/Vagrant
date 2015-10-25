@@ -54,3 +54,12 @@ service apache2 restart
 
 # install git
 sudo apt-get -y install git
+
+
+##Install other packages
+sudo apt-get -y install curl
+
+#Install nodejs
+#curl -sL https://deb.nodesource.com/setup_4.x | sudo -E bash -
+#sudo apt-get install -y nodejs
+
