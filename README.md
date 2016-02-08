@@ -11,4 +11,7 @@
 <p>mysql root: 12345 </p>
 <p>phpmyadmin root:12345</p>
 
+<p>Install my debian with vagrant from <link>atlas.hashicorp.com</link></p>
+
+vagrant init jafamo/debian; vagrant up --provider virtualbox
 
